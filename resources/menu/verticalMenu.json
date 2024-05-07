@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "menuHeader": "Dashboard"
+    },
+    {
+      "url": "si-dandang/dashboard",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "dandang-dashboard"
+    },
+    {
+      "menuHeader": "Menu"
+    },
+    {
+      "url": "si-dandang/pengaduan",
+      "name": "Pengaduan",
+      "icon": "menu-icon tf-icons ti ti-layout-kanban",
+      "slug": "dandang-pengaduan"
+    }
+  ]
+}

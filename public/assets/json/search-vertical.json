@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "name": "Si-Dandang Dashboard",
+      "icon": "ti-smart-home",
+      "url": "si-dandang/dashboard"
+    },
+    {
+      "name": "Pengaduan",
+      "icon": "menu-icon tf-icons ti ti-layout-kanban",
+      "url": "si-dandang/pengaduan"
+    }
+  ],
+  "files": [],
+  "members": []
+}
